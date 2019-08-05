@@ -1,0 +1,8 @@
+{
+	"name" : "dd-dorffunk-integration",
+	"version" : "0.0",
+	"download_url" : "https://github.com/albeja/wp-testplugin/blob/master/DorfNews-Publish-Plugin-master.zip",
+	"sections" : {
+		"description" : "Integration-Plugin for Dorffunk"
+	}
+}
