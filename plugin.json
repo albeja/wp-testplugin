@@ -1,8 +1,8 @@
  {
  	"name" : "DDWOO",
- 	"version" : "0.4.0",
- 	"download_url" : "https://erbenschell.iese.fraunhofer.de/DigitaleDoerfer/Shop-DigitalesDorf-Plugin-DDWoo",
+ 	"version" : "1.4.0",
+ 	"download_url" : "https://erbenschell.iese.fraunhofer.de/DigitaleDoerfer/Shop-DigitalesDorf-Plugin-DDWoo/tree/dev",
  	"sections" : {
- 		"description" : "Plugin description here. You can use HTML."
+ 		"description" : "New version showing to dev tree."
  	}
  }
