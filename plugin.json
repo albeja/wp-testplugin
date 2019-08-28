@@ -1,8 +1,8 @@
-{
-	"name" : "dd-dorffunk-integration",
-	"version" : "1.1",
-	"download_url" : "https://github.com/albeja/wp-testplugin/blob/master/DorfNews-Publish-Plugin-master(1).zip",
-	"sections" : {
-		"description" : "Integration-Plugin for Dorffunk - NEW version"
-	}
-}
+ {
+ 	"name" : "DDWOO",
+ 	"version" : "0.3.0",
+ 	"download_url" : "https://erbenschell.iese.fraunhofer.de/DigitaleDoerfer/Shop-DigitalesDorf-Plugin-DDWoo",
+ 	"sections" : {
+ 		"description" : "Plugin description here. You can use HTML."
+ 	}
+ }
